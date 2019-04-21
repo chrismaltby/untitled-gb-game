@@ -13,5 +13,9 @@ This repository contains the source files and graphical assets needed to edit th
 
 ## Open
 
-To open this project first [install GB Studio](https://www.gbstudio.dev/docs/installation/) then use the application to open the `project.json` file.
+To open this project first [install GB Studio](https://www.gbstudio.dev/docs/installation/).
+
+Then download the latest [project file here](https://github.com/chrismaltby/untitled-gb-game/releases/download/v1.0.0/untitled-gb-game-for-gb-studio.zip).
+
+Unzip the project then use GB Studio to open the `project.json` file.
 
