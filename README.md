@@ -19,3 +19,6 @@ Then download the latest [project file here](https://github.com/chrismaltby/unti
 
 Unzip the project then use GB Studio to open the `untitled-gb-game.gbsproj` file.
 
+## Usage in your own projects
+
+You are free to use any of the project assets included in Untitled GB Game in your own projects, including for commercial use. Crediting myself (Chris Maltby) for the creation of any assets you use would be appreciated!
